@@ -1,8 +1,12 @@
-# iPodcast-App
+# iPodcast-App 
+
+### Note 
+    still working on..
 
 Listen your favorite podcast . 
 
 iPodcast uses itune search api to search podcast.
+
 
 
 ### Favorite Podcast 
