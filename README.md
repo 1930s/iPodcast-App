@@ -1,7 +1,7 @@
 # iPodcast-App 
 
 ### Note 
-    still working on..
+    some features are left to add...
 
 Listen your favorite podcast . 
 
